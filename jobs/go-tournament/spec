@@ -1,7 +1,3 @@
----
-name: go-tournament
-
-templates: 
-  bin/ctl.sh: bin/ctl.sh
-packages: 
-  - go-tournament
+templates:
+ 
+  ctl.sh: bin/ctl.sh
